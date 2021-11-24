@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucaVari
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer engineering
-- 🎓 I'm studing in PoliMI
+- 🎓 I'm studying at PoliMI
 
 
 <!---
